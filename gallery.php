@@ -29,7 +29,7 @@
                         <div class=\"card mr-3 mt-3\" >
                             <img class=\"card-img-top\" src=\"uploads/$filename\" alt=\"Card image cap\">
                             <div>                          
-                                <a href=\"gallery.php?file=$filename\" id=\"delete\" class=\"\">
+                                <a href=\"gallery.php?file=$filename\" class=\"deleteImage\">
                                     <i class=\"fas fa-times fa-2x text-danger\"></i>                        
                                 </a>
                             </div>

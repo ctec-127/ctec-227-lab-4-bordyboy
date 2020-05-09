@@ -74,7 +74,7 @@ img {
     margin-bottom: 0;
 }
 
-#delete {
+.deleteImage {
     position: absolute;
     top: -15px;
     right: -10px;
